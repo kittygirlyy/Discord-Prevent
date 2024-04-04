@@ -35,5 +35,3 @@
   <tr><td>Blank-Grabber</td>     <td><a href="https://github.com/Blank-c/Blank-Grabber">Link</a></td></tr>
   <tr><td>Hazard token grb</td>     <td><a href="https://github.com/Rbimo/Hazard-Token-Grabber.v2">Link</a></td></tr>
 </table>
-
-<!-- Dalunacrobate -->
