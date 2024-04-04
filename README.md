@@ -1,4 +1,11 @@
-<table align="center">
+<h2 align="center"> ━━━━━━  △  ━━━━━━ </h2>
+<div align="center">
+   <p></p>
+   <a href="https://discord.gg/linuxfr">
+      <img alt="Discord server" src="https://discord.com/api/guilds/1058067015891431514/embed.png?style=banner4">
+   </a>
+   <br><br><br>
+  <table align="center">
   <tr>
     <th>DiscordProtector</th>
   </tr>
@@ -6,7 +13,8 @@
     <td>A repository to prevent and protect from discord malware and scam</td>
   </tr>
 </table>
-<br></br>
+</div>
+<p/>
 
 
 <h1 align="center">Chapters</h1>
